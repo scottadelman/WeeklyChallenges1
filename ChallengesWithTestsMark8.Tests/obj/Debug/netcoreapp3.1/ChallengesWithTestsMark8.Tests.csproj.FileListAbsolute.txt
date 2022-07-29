@@ -1,0 +1,5 @@
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.AssemblyInfoInputs.cache
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.AssemblyInfo.cs
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8.Tests\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.Tests.csproj.CoreCompileInputs.cache

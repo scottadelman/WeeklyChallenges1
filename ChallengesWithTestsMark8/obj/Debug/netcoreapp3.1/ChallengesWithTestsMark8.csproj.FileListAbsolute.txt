@@ -25,3 +25,17 @@ C:\Users\scott\OneDrive\Desktop\Repositories\Weekly Challenges\WeeklyChallenges1
 C:\Users\scott\OneDrive\Desktop\Repositories\Weekly Challenges\WeeklyChallenges1\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
 C:\Users\scott\OneDrive\Desktop\Repositories\Weekly Challenges\WeeklyChallenges1\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
 C:\Users\scott\OneDrive\Desktop\Repositories\Weekly Challenges\WeeklyChallenges1\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.genruntimeconfig.cache
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.exe
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.deps.json
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.json
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\bin\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.AssemblyInfo.cs
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.dll
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.pdb
+C:\Users\scott\OneDrive\Desktop\Repositories\WeeklyChallenges1\ChallengesWithTestsMark8\obj\Debug\netcoreapp3.1\ChallengesWithTestsMark8.genruntimeconfig.cache
